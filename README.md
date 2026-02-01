@@ -13,11 +13,7 @@ Software Developer with a strong focus on backend development, software architec
 - **Frontend:** Angular  
 - **Databases:** Microsoft SQL Server, MySQL, MongoDB  
 - **Tools & Practices:** Git, Docker, Agile/Scrum, GitHub Actions
-  
-## 📈 What I'm Currently Working On
-- Improving backend development best practices  
-- Strengthening software architecture and design skills
-  
+ 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/ibrahim-jallouli  
 - Email: ibrahim.jallouli@hotmail.com
