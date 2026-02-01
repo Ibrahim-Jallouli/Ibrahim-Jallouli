@@ -13,17 +13,11 @@ Software Developer with a strong focus on backend development, software architec
 - **Frontend:** Angular  
 - **Databases:** Microsoft SQL Server, MySQL, MongoDB  
 - **Tools & Practices:** Git, Docker, Agile/Scrum, GitHub Actions
-
-## 📌 Personal Projects
-- **Flappy-BUG**  
-  Unity game project focused on debugging, reverse engineering, and code analysis.
-
-- **ReelGenAI**  
-  AI-powered reel generator transforming text into short-form videos using Python.
-
-- **go-web-scraper**  
-Concurrent web scraping tool written in Go, focusing on performance, concurrency, and clean backend structure.
-
+  
+## 📈 What I'm Currently Working On
+- Improving backend development best practices  
+- Strengthening software architecture and design skills
+  
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/ibrahim-jallouli  
 - Email: ibrahim.jallouli@hotmail.com
