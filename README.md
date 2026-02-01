@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ibrahim 👋
 
-<!--
-**Ibrahim-Jallouli/Ibrahim-Jallouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a strong focus on backend development, software architecture, and building reliable, performance-oriented applications.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Master's student in Software Engineering (France)
+- 💼 Junior / Apprentice Software Developer (.NET & Java)
+- 🧠 Interested in clean code, software architecture, and performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** C#, Java, JavaScript, Go, Php  
+- **Backend:** .NET, ASP.NET, Spring Boot, Node.js  
+- **Frontend:** Angular  
+- **Databases:** Microsoft SQL Server, MySQL, MongoDB  
+- **Tools & Practices:** Git, Docker, Agile/Scrum, GitHub Actions
+
+## 📌 Personal Projects
+- **Flappy-BUG**  
+  Unity game project focused on debugging, reverse engineering, and code analysis.
+
+- **ReelGenAI**  
+  AI-powered reel generator transforming text into short-form videos using Python.
+
+- **go-web-scraper**  
+Concurrent web scraping tool written in Go, focusing on performance, concurrency, and clean backend structure.
+
+
+## 📈 What I'm Currently Working On
+- Improving backend development best practices  
+- Strengthening software architecture and design skills  
+- Learning more about performance testing and system monitoring  
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/ibrahim-jallouli  
+- Email: ibrahim.jallouli@hotmail.com
