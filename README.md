@@ -24,12 +24,6 @@ Software Developer with a strong focus on backend development, software architec
 - **go-web-scraper**  
 Concurrent web scraping tool written in Go, focusing on performance, concurrency, and clean backend structure.
 
-
-## 📈 What I'm Currently Working On
-- Improving backend development best practices  
-- Strengthening software architecture and design skills  
-- Learning more about performance testing and system monitoring  
-
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/ibrahim-jallouli  
 - Email: ibrahim.jallouli@hotmail.com
